@@ -8,3 +8,4 @@ By the end of this course, you'll be able to
 - Work with both the command line and visual tools
 
 The office
+friends
