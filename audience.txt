@@ -1,6 +1,7 @@
-AUDIENCE 
+YAUDIENCE 
 
 This course is for anyone who wants to learn Git. 
 No prior experience is required.
 
 MAHESH
+REDDY
